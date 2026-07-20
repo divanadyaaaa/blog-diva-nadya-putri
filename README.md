@@ -49,7 +49,7 @@ Tampilan aplikasi ini saya desain dengan tema *editorial pink minimalist* — pe
 
 ---
 
-## 🚀 Cara Menjalankan di Lokal
+## Cara Menjalankan di Lokal
 
 **1. Clone repository ini**
 ```bash
