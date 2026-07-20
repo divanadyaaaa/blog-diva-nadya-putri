@@ -1,6 +1,6 @@
 # Blog Diva Nadya Putri
 
-Aplikasi blog pribadi berbasis Laravel yang saya bangun untuk menyelesaikan Project Individu mata kuliah **Pemrograman Web Lanjut (IF-3204)**, Program Studi Teknik Informatika, Universitas Malikussaleh.
+Aplikasi blog pribadi berbasis Laravel yang saya bangun untuk menyelesaikan Project Individu mata kuliah **Pemrograman Web Lanjut A6**, Program Studi Teknik Informatika, Universitas Malikussaleh.
 
 Konsepnya sederhana: saya (sebagai penulis, setelah login) bisa menulis, mengedit, dan menghapus artikel serta kategori milik saya sendiri. Sementara siapa pun yang berkunjung ke situs ini — tanpa perlu mendaftar akun — bisa membaca artikel yang sudah dipublikasikan, mencarinya berdasarkan judul, memfilter berdasarkan kategori, dan meninggalkan komentar.
 
